@@ -2814,17 +2814,8 @@ ig.module('game.words').defines(function () {
         12: ['accidentally', 'alternatives', 'announcement', 'applications', 'appreciating', 'arrangements', 'broadcasting', 'calculations', 'circumstance', 'combinations', 'complicating', 'consequences', 'consequently', 'considerable', 'considerably', 'continuation', 'continuously', 'contribution', 'conventional', 'conversation', 'deliberately', 'descriptions', 'difficulties', 'disadvantage', 'disappearing', 'discouraging', 'distributing', 'distribution', 'embarrassing', 'encountering', 'establishing', 'experiencing', 'experimental', 'guaranteeing', 'implementing', 'implications', 'improvements', 'incidentally', 'incompatible', 'inconsistent', 'individually', 'institutions', 'instructions', 'intelligence', 'interpreting', 'intervention', 'introduction', 'manipulation', 'mathematical', 'nevertheless', 'occasionally', 'particularly', 'professional', 'recommending', 'relationship', 'representing', 'requirements', 'respectively', 'significance', 'simultaneous', 'sophisticate', 'specifically', 'successfully', 'sufficiently', 'transferring', 'unacceptable', 'universities', 'unreasonable']
     };*/
     WORDS = {
-        2:  ['ff', 'jj'],
-        3:  ['fff', 'jjj'],
-        4:  ['ffff', 'jjjj'],
-        5:  ['fffff', 'jjjjj'],
-        6:  ['ffffff', 'jjjjjj'],
-        7:  ['fffffff', 'jjjjjjj'],
-        8:  ['ffffffff', 'jjjjjjjj'],
-        9:  ['fffffffff', 'jjjjjjjjj'],
-        10: ['ffffffffff', 'jjjjjjjjjj'],
-        11: ['fffffffffff', 'jjjjjjjjjjj'],
-        12: ['ffffffffffff', 'jjjjjjjjjjjj']
+        //2:  ['abc', 'def'],
+        3:  ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'],
     };
 });
 
